@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movies-Box/static/css/main.918d8d70.css",
+    "main.js": "/Movies-Box/static/js/main.76b41e7d.js",
+    "index.html": "/Movies-Box/index.html",
+    "static/media/search.svg": "/Movies-Box/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.918d8d70.css.map": "/Movies-Box/static/css/main.918d8d70.css.map",
+    "main.76b41e7d.js.map": "/Movies-Box/static/js/main.76b41e7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.918d8d70.css",
+    "static/js/main.76b41e7d.js"
+  ]
+}
