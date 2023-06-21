@@ -1,6 +1,6 @@
 # Project Description
 An app that can be used to search among all the movie titles by their name
-Visit the page, by clicking [this link here](https://imaginedtime.github.io/Movies-Box/)
+Visit the page, by clicking [this link here](https://movies-box.vercel.app/)
 
 
 # Getting Started with Create React App
